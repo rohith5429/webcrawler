@@ -8,6 +8,6 @@
 
 <h3><p align="center">DirScan</p></h3>
 
-<i>"directoryscaner" discovers hidden directories in a domain</i>
+<p align="center"><i>"directoryscaner" discovers hidden directories in a domain</i></p>
 
 
